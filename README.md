@@ -44,7 +44,10 @@ It is important to take care of the patient, to be followed by the patient, but 
 <p>
 
   
-  ![image](https://github.com/Samuelbrownolehuma/osticket-prereqs/assets/162997143/62575b35-daec-46ce-accd-c40559173188)
+
+  
+
+![image](https://github.com/Samuelbrownolehuma/osticket-prereqs/assets/162997143/62575b35-daec-46ce-accd-c40559173188)
 
 </p>
 <p>
@@ -53,12 +56,25 @@ It is important to take care of the patient, to be followed by the patient, but 
 <br />
 
 
+
+
+
+
 ![image](https://github.com/Samuelbrownolehuma/osticket-prereqs/assets/162997143/19ecffc8-a316-47e3-809d-723d454dbb7c)
 
 
 
 
 
+
+
+
+
+
+
+
+
+![image](https://github.com/Samuelbrownolehuma/osticket-prereqs/assets/162997143/1bab3e03-46a2-434c-b130-28815557bd7b)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
