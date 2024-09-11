@@ -6,7 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+
 
 
 <h2>Environments and Technologies Used</h2>
@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+This is the installation of the ISS using the virtual machine to create it
 </p>
 <br />
 
