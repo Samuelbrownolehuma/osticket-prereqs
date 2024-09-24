@@ -115,7 +115,11 @@ Installed OS Ticket
 
 
 
-![image](https://github.com/Samuelbrownolehuma/osticket-prereqs/assets/162997143/d74ccf68-f479-418b-aa60-a3d87aa3e9dc)
+
+![image](https://github.com/user-attachments/assets/6a248d40-a18f-4f24-9470-c889c2c30543)
+
+
+
 
   
 </p>
