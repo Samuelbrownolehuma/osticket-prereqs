@@ -113,11 +113,20 @@ Installed MYSQL
 
 Installed OS Ticket
 
-
-
-
 ![image](https://github.com/user-attachments/assets/65de2bf5-ffa8-4d89-9a2f-599b99e2f465)
 
+
+Help Desk Login page
+
+![image](https://github.com/user-attachments/assets/2800683e-6432-4d57-9684-cb6d8d776c1d)
+
+
+
+
+
+
+For the end user
+![image](https://github.com/user-attachments/assets/19c9cec9-ae79-4b43-97cd-34e4f2b21837)
 
 
 
