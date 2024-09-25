@@ -116,7 +116,8 @@ Installed OS Ticket
 
 
 
-![image](https://github.com/user-attachments/assets/6a248d40-a18f-4f24-9470-c889c2c30543)
+![image](https://github.com/user-attachments/assets/65de2bf5-ffa8-4d89-9a2f-599b99e2f465)
+
 
 
 
